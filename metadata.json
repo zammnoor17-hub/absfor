@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of X-Pray",
+  "description": "A QR-code based prayer attendance system for 10th-grade students. Features ID generation, camera scanning, and Firebase integration.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
