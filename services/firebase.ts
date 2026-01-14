@@ -5,13 +5,14 @@ import { AttendanceRecord, AdminAccount } from '../types';
 
 // Konfigurasi Firebase Anda (Pastikan sesuai dengan yang ada di Firebase Console > Project Settings)
 const firebaseConfig = {
-  apiKey: "AIzaSyDkmJDCUEN0FprTFKxlOEkaoU3JndvezAg",
-  authDomain: "absen-4c88a.firebaseapp.com",
-  databaseURL: "https://absen-4c88a-default-rtdb.firebaseio.com/",
-  projectId: "absen-4c88a",
-  storageBucket: "absen-4c88a.firebasestorage.app",
-  messagingSenderId: "189025380230",
-  appId: "1:189025380230:web:c15de7226d3ccfd42cae07"
+  apiKey: "AIzaSyBCNPKx6Qnl_mPdGwuLlqOx9cI7fRhcwOE",
+  authDomain: "absfor.firebaseapp.com",
+  databaseURL: "https://absfor-default-rtdb.asia-southeast1.firebasedatabase.app",
+  projectId: "absfor",
+  storageBucket: "absfor.firebasestorage.app",
+  messagingSenderId: "815942958330",
+  appId: "1:815942958330:web:69ead6ba0a7af82e3e9d43",
+  measurementId: "G-4085YTB8CL"
 };
 
 // Inisialisasi Firebase
